@@ -1,0 +1,16 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Local editor / IDE state
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Tooling local config
+.claude/settings.local.json
+
+# Claude Code instructions — local only, not for distribution
+CLAUDE.md

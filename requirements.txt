@@ -1,0 +1,8 @@
+# Runtime dependencies for dsviper-components-qml — shared QML
+# library for the dsviper Python ecosystem (Qt Quick / QML side).
+
+# dsviper runtime + Python binding (used by the model classes)
+dsviper>=1.2
+
+# Qt Quick / QML. Pinned to align with the dsviper Python ecosystem.
+PySide6==6.10.1
