@@ -5,6 +5,12 @@ Provides the common Python models (controllers, managers,
 notifiers) and QML components used by `dsviper-tools-qml` (cdbe,
 dbe) and `ge-qml` (graph editor).
 
+## Documentation
+
+Full documentation: https://docs.digitalsubstrate.io/dsviper-components/
+
+Part of the [DevKit ecosystem](https://docs.digitalsubstrate.io/).
+
 ## Architectural position
 
 Sits above the runtime layer. Consumes the public API of:
