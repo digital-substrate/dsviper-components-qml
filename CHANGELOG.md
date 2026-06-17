@@ -16,6 +16,6 @@ Database / CommitDatabase tooling.
 ### Added
 - QML components and models for browsing and administering a
   Database / CommitDatabase.
-- Runs on Python 3.10–3.14.
+- Runs on Python 3.10–3.14; requires dsviper >= 1.2.16.
 - `LicenseModel` accepts an optional `version` argument so consuming
   applications can expose their own version to QML.
