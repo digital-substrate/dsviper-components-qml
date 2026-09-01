@@ -3,7 +3,7 @@
 Shared Qt Quick / QML library for the dsviper Python ecosystem.
 Provides the common Python models (controllers, managers,
 notifiers) and QML components used by `dsviper-tools-qml` (cdbe,
-dbe) and `ge-qml` (graph editor).
+dbe) and `dsviper-ge-qml` (graph editor).
 
 ## Documentation
 

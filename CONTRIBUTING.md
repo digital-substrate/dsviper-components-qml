@@ -10,7 +10,7 @@ Use [GitHub Issues](https://github.com/digital-substrate/dsviper-components-qml/
 
 1. Fork the repository and create a feature branch from `main`
 2. Make your changes
-3. Verify a downstream consumer still imports cleanly — typically by running `cdbe`, `dbe` (from [`dsviper-tools-qml`](https://github.com/digital-substrate/dsviper-tools-qml)) or `graph_editor` (from [`ge-qml`](https://github.com/digital-substrate/ge-qml)) against your local checkout
+3. Verify a downstream consumer still imports cleanly — typically by running `cdbe`, `dbe` (from [`dsviper-tools-qml`](https://github.com/digital-substrate/dsviper-tools-qml)) or `graph_editor` (from [`dsviper-ge-qml`](https://github.com/digital-substrate/dsviper-ge-qml)) against your local checkout
 4. Open a pull request with a clear description of what changed and why
 
 ## Running locally

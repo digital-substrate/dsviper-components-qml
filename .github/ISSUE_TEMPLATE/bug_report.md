@@ -12,7 +12,7 @@ labels: bug
 
 ## Environment
 - dsviper-components-qml commit/version:
-- Consumer repo and version (ge-qml / dsviper-tools-qml / other):
+- Consumer repo and version (dsviper-ge-qml / dsviper-tools-qml / other):
 - Python version:
 - PySide6 version:
 - dsviper version:
