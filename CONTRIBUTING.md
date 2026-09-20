@@ -18,8 +18,7 @@ Use [GitHub Issues](https://github.com/digital-substrate/dsviper-components-qml/
 Requires Python 3.14+ and PySide6 with QML support.
 
 ```bash
-pip install -r requirements.txt          # PySide6 and deps
-pip install dsviper                      # Viper Python binding
+pip install -r requirements.txt          # PySide6, the dsviper binding and deps
 ```
 
 This repo is a library — there is no entry point. Consumers vendor `dsviper_components_qml/` in-tree (synced via their own `dev/sync_dsviper_components_qml.py`).
