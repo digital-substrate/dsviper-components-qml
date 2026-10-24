@@ -10,7 +10,11 @@ This version line is the library's own; it is independent from the
 
 ## [Unreleased]
 
-_No changes yet. Bug fixes for the next 1.2.x patch release will be listed here._
+### Changed
+
+- **Requires `dsviper >= 1.2.31`**, the first binding to name the Commit opcodes and programs
+  `CommitOpcode*` and `CommitProgram`, which the commit-program views read; earlier wheels call
+  them `ValueOpcode*` and `ValueProgram`.
 
 ## [1.2.0] - 2026-06-17
 
